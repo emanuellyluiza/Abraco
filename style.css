@@ -13,7 +13,7 @@
 }
 body{
 	margin: 0;
-	font-family: "Lucida Handwriting",Cursive;
+	font-family: cursive;
 	background:linear-gradient(#BFACE0, #645CAA,#A084CA,#BFACE0, #645CAA,#A084CA);
 }
 h2 {
